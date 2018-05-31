@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript" src="script.js"></script>
+function sum()
+{
+    var FirstNumber = 1;
+    var SecondNumber = document.getElementById('txtSecondNumber').value;
+    alert(parseInt(FirstNumber) + parseInt(SecondNumber));
+}
+
+</head>
+<body>
+Please enter a number:<input id="txtSecondNumber" type="text" />
+<input id="btnAdd" type="button" value="Add" onclick="sum();"/>
+</body>   
+</html>
