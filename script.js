@@ -5,43 +5,30 @@
 // }
 // console.log(total)
 
-// var play = prompt("do you want to play?")
+// var val = prompt("do you want to play?")
+// var play=""
+// var word=""
 //   if (play == "yes" ) {
-//   do { var word = prompt ("Enter a Word");
-//         document.write(dog);
+//   do { word = prompt ("Enter a Word");
+//       document.write(word);
 //         var val = prompt ("do you want to play again?");
-//   } while (val == "yes")
-//   do { var word = prompt ("Enter a Word");
-//         document.write(cat);
-//         var val = prompt ("do you want to play again?");
-//   } while (val == "no")
-//         document.write(dogcat);
+//   } while ("yes")
 //   }
+//   console.log(word)
 
 // var answer = prompt("Would you like to print your name?");
-//  var name = "Hello. My name is Adam";
-//  if (answer == "yes" ) {
-//    do { 
-//     console.log(name + "!")
-//  var val = prompt ("Would you like to print this again?");
-//  var name = "Hello. My name is Adam";
-//    } while (val == "yes") {
-//    do { 
-//     console.log(name + "!")}
-//         var val = prompt ("Would you like to print this again?");
-//          var name = "Hello. My name is Adam";
-//    } while (val == "yes") {
-//    do { 
-//     console.log(name + "!")}
-//      var val = prompt ("Would you like to print this again?");
-//      var name = "Hello. My name is Adam";
-//  if (answer == "no" ) {
-//    do { 
-//     console.log(name + "!")
+// var name = "Hello. My name is Adam";
+// var n = "!"
+// var val = ' '
+// if (answer == "yes" ) {
+// do {
+//   console.log(name + n)
+// answer = prompt ("Would you like to print this again?");
+// console.log('Value', answer)
+// } while (answer== "yes")
+// answer = prompt ("Would you like to print this again?");
 //   }
-
-
-
+// }
 
 // }
 // var input = prompt("Please enter a time of day (mornining, noon, or evening).");
